@@ -10,6 +10,7 @@
   "keywords": [
     "electron"
   ],
+  "type": "module",
   "author": "jaredPinfold",
   "license": "ISC",
   "devDependencies": {
